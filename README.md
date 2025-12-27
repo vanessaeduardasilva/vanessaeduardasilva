@@ -1,83 +1,75 @@
-<h1 align="center">Olá, seja bem-vindo(a)! 👋</h1>
-
-<div align="center">
-  <img height="120" src="https://i.pinimg.com/originals/25/4c/3a/254c3ab0cbf821a1dd0b558c57269238.gif" />
-</div>
-
-<br>
-
-<h2 align="center">Sobre Mim ✨</h2>
+<h1 align="center">Olá, eu sou a Vanessa! 👋</h1>
 
 <p align="center">
-Estudante de Engenharia de Software, com foco em desenvolvimento de software e análise de dados. Sempre aprendendo e evoluindo passo a passo.
+  <img height="150" src="https://i.pinimg.com/originals/25/4c/3a/254c3ab0cbf821a1dd0b558c57269238.gif" alt="Coding Animation" />
 </p>
 
-**Experiências Acadêmicas e Técnicas:**
-<ul>
-<li>Engenharia de Computação: conhecimentos em eletrônica digital e analógica, microcontroladores.</li>
-<li>Projetos práticos: automação IoT com ESP32 e protocolo MQTT.</li>
-<li>Ministrei minicurso de Robótica Educacional como projeto extensionista.</li>
-</ul>
+<p align="center">
+  <strong>Estudante de Engenharia de Software | Analista de Dados | IoT Enthusiast</strong>
+</p>
 
-**Paixões e Interesses Pessoais:**
-<ul>
-<li>Café ☕</li>
-<li>Leitura 📚</li>
-<li>Animes 🎌</li>
-</ul>
+<p align="center">
+  Atualmente focada em criar soluções eficientes e aprender algo novo todos os dias. 🚀
+</p>
 
-<br>
+---
 
-<h2 align="center">Hard Skills ⚡</h2>
+### ⚡ Sobre Mim
+
+Estudante de **Engenharia de Software**, com uma base sólida vinda da Engenharia de Computação. Tenho experiência prática em hardware e software, unindo o mundo da eletrônica (IoT) com o desenvolvimento moderno.
+
+* 🎓 **Acadêmico:** Experiência com eletrônica digital, microcontroladores e robótica.
+* 🛠️ **Projetos:** Automação IoT utilizando ESP32 e protocolo MQTT.
+* 🏫 **Extensão:** Ministrei minicursos de Robótica Educacional.
+* 🌱 **Interesses:** Café ☕, Leitura 📚 e Animes 🎌.
+
+---
+
+### 💻 Hard Skills
 
 <div align="center">
-  <h3>Linguagens:</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" style="margin:6px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" style="margin:6px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" style="margin:6px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" style="margin:6px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" style="margin:6px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" style="margin:6px"/>
-  
-  <h3>Bancos de Dados:</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" style="margin:6px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" style="margin:6px"/>
-  
-  <h3>Ferramentas:</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" style="margin:6px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" style="margin:6px"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <br>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </div>
 
-<br>
+---
 
-<h2 align="center">Soft Skills ♟️</h2>
+### 🧠 Soft Skills
 
-<ul align="center">
-<li>Curiosidade e vontade constante de aprender</li>
-<li>Determinação e foco em objetivos</li>
-<li>Pensamento crítico e resolução de problemas</li>
-<li>Trabalho em equipe e colaboração</li>
-<li>Organização e disciplina</li>
-</ul>
+- 🔍 **Curiosidade Ativa:** Sempre em busca de novas tecnologias.
+- 🎯 **Foco e Determinação:** Orientada a resultados e prazos.
+- 🧩 **Resolução de Problemas:** Pensamento crítico em situações complexas.
+- 🤝 **Colaboração:** Experiência em trabalhos de equipe e projetos extensionistas.
 
-<br>
+---
 
-<h2 align="center">Contato 📫</h2>
+### 📫 Vamos nos conectar?
 
 <div align="center">
   <a href="https://www.linkedin.com/in/vanessa-cunha-0791a9309/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge" />
   </a>
   <a href="mailto:contato.vanessaeduarda@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
   </a>
 </div>
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vanessaeduardasilva/vanessaeduardasilva/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vanessaeduardasilva/vanessaeduardasilva/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vanessaeduardasilva/vanessaeduardasilva/output/pacman-contribution-graph.svg">
-</picture>
-
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vanessaeduardasilva/vanessaeduardasilva/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vanessaeduardasilva/vanessaeduardasilva/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vanessaeduardasilva/vanessaeduardasilva/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
