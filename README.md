@@ -11,7 +11,7 @@
 Estudante de Engenharia de Software, com foco em desenvolvimento de software e análise de dados. Sempre aprendendo e evoluindo passo a passo.
 
 **Experiências Acadêmicas e Técnicas:**
-- Engenharia de Computação: conhecimentos em eletrônica digital e analógica, microcontroladores.
+- Por já ter cursando Engenharia de Computação possuo conhecimentos em eletrônica digital e analógica, microcontroladores.
 - Projetos práticos: automação IoT com ESP32 e protocolo MQTT.
 - Ministrei minicurso de Robótica Educacional como projeto extensionista.
 
