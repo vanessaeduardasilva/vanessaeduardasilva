@@ -49,7 +49,16 @@ Estudante de **Engenharia de Software** com transição de base da Engenharia de
 - 🔍 **Curiosidade Ativa:** Sempre em busca de novas tecnologias e métodos analíticos.
 - 🎯 **Foco e Determinação:** Orientada a resultados e resolução eficiente de problemas.
 - 🧩 **Pensamento Crítico:** Capacidade de analisar cenários e propor melhorias baseadas em evidências.
-- 🤝 **Colaboração:** Facilidade em trabalhar em equipas multidisciplinares.
+- 🤝 **Colaboração:** Facilidade em trabalhar em equipes multidisciplinares.
+
+---
+
+### 📊 Estatísticas e Atividade
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vanessaeduardasilva&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaeduardasilva&layout=compact&theme=vision-friendly-dark"/>
+</div>
 
 ---
 
@@ -62,14 +71,4 @@ Estudante de **Engenharia de Software** com transição de base da Engenharia de
   <a href="mailto:contato.vanessaeduarda@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
   </a>
-</div>
-
-<br>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vanessaeduardasilva/vanessaeduardasilva/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vanessaeduardasilva/vanessaeduardasilva/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vanessaeduardasilva/vanessaeduardasilva/output/pacman-contribution-graph.svg">
-  </picture>
 </div>
