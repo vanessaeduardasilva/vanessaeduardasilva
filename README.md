@@ -8,7 +8,7 @@
 
 <h2 align="center">Sobre Mim ✨</h2>
 
-<p align="center">
+<p align="left">
 Estudante de Engenharia de Software, com foco em desenvolvimento de software e análise de dados. Sempre aprendendo e evoluindo passo a passo.
 </p>
 
@@ -26,23 +26,20 @@ Estudante de Engenharia de Software, com foco em desenvolvimento de software e a
 
 <h2 align="center">Hard Skills ⚡</h2>
 
-<div align="center">
-  <strong>Linguagens:</strong>
-  <br>
+<div align="left">
+  <h3>Linguagens:</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" style="margin:6px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" style="margin:6px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" style="margin:6px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" style="margin:6px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" style="margin:6px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" style="margin:6px"/>
-  <br><br>
-  <strong>Bancos de Dados:</strong>
-  <br>
+
+  <h3>Bancos de Dados:</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" style="margin:6px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo" style="margin:6px"/>
-  <br><br>
-  <strong>Ferramentas:</strong>
-  <br>
+
+  <h3>Ferramentas:</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" style="margin:6px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" style="margin:6px"/>
 </div>
@@ -51,12 +48,12 @@ Estudante de Engenharia de Software, com foco em desenvolvimento de software e a
 
 <h2 align="center">Soft Skills ♟️</h2>
 
-<div align="center">
-- Curiosidade e vontade constante de aprender  
-- Determinação e foco em objetivos  
-- Pensamento crítico e resolução de problemas  
-- Trabalho em equipe e colaboração  
-- Organização e disciplina  
+<div align="left">
+- Curiosidade e vontade constante de aprender.  
+- Determinação e foco em objetivos. 
+- Pensamento crítico e resolução de problemas. 
+- Trabalho em equipe e colaboração.  
+- Organização e disciplina.
 </div>
 
 ---
@@ -71,14 +68,6 @@ Estudante de Engenharia de Software, com foco em desenvolvimento de software e a
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
-
----
-
-<h2 align="center">Linguagens mais usadas 💻</h2>
-
-<p align="center">
-  [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaeduardasilva&layout=compact&theme=github_dark&langs_count=8)](https://github.com/vanessaeduardasilva/github-readme-stats)
-</p>
 
 ---
 
