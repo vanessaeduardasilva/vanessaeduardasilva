@@ -56,8 +56,16 @@ Estudante de **Engenharia de Software** com transição de base da Engenharia de
 ### 📊 Estatísticas e Atividade
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vanessaeduardasilva&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaeduardasilva&layout=compact&theme=vision-friendly-dark"/>
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vanessaeduardasilva&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaeduardasilva&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
