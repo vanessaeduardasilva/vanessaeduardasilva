@@ -33,7 +33,6 @@ Estudante de **Engenharia de Software** com transição de base da Engenharia de
   * **Diferencial:** Integração com a **Google Calendar API** para envio de alertas automáticos de vencimento.
   * **Tech Stack:** 🐍 Python | 🗄️ SQLite | 🌐 JavaScript, HTML, CSS | 📅 Google Calendar API
   
-  [Acesse o repositório aqui →](https://github.com/vanessaeduardasilva/gestao-de-contas)
 ---
 
 ### 💻 Hard Skills
