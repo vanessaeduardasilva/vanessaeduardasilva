@@ -27,9 +27,13 @@ Estudante de **Engenharia de Software** com transição de base da Engenharia de
 
 ### 📂 Projetos em Destaque
 
-- **🐍 Python + SQL Integration:** Desenvolvimento de aplicação para [Descreva aqui o objetivo do seu projeto, ex: Gestão de Dados] utilizando Python e Bancos de Dados Relacionais. (Projeto em desenvolvimento via FIAP).
-- **📟 IoT Data Capture:** Monitoramento e automação utilizando C++ e dispositivos ESP32/Arduino.
-
+- **🚀 [ORGANIZERION GESTÃO INTELIGENTE](https://github.com/vanessaeduardasilva/gestao-de-contas)**
+  > Sistema de gestão financeira que automatiza o controle de contas utilizando **Python** e **SQLite**. 
+  
+  * **Diferencial:** Integração com a **Google Calendar API** para envio de alertas automáticos de vencimento.
+  * **Tech Stack:** 🐍 Python | 🗄️ SQLite | 🌐 JavaScript, HTML, CSS | 📅 Google Calendar API
+  
+  [Acesse o repositório aqui →](https://github.com/vanessaeduardasilva/gestao-de-contas)
 ---
 
 ### 💻 Hard Skills
