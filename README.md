@@ -27,7 +27,7 @@ Estudante de **Engenharia de Software** com transição de base da Engenharia de
 
 ### 📂 Projetos em Destaque
 
-- ** 📊 [ORGANIZERION GESTÃO INTELIGENTE](https://github.com/vanessaeduardasilva/gestao-de-contas)** 🏗️ *(Projeto em Desenvolvimento)*
+- 📊 [ORGANIZERION GESTÃO INTELIGENTE](https://github.com/vanessaeduardasilva/gestao-de-contas) 🏗️ *(Projeto em Desenvolvimento)*
   > Sistema de gestão financeira que automatiza o controle de contas utilizando **Python** e **SQLite**. 
 
   * **Diferencial:** Integração com a **Google Calendar API** para envio de alertas automáticos de vencimento, unindo lógica de backend com automação de agenda.
