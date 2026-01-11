@@ -33,9 +33,11 @@ Estudante de **Engenharia de Software** com transição de base da Engenharia de
   * **Diferencial:** Integração com a **Google Calendar API** para envio de alertas automáticos de vencimento, unindo lógica de backend com automação de agenda.
   * **Status Atual:** O projeto está sendo constantemente refatorado e aprimorado com as melhores práticas de desenvolvimento que estou adquirindo no curso de **Python da FIAP**.
   * **Tech Stack:** 🐍 Python | 🗄️ SQLite | 🌐 JavaScript, HTML, CSS | 📅 Google Calendar API
-
-  [Visualizar Repositório →](https://github.com/vanessaeduardasilva/gestao-de-contas)
   
+- 🌱 [IRRIGA TECH](https://github.com/vanessaeduardasilva/Projeto-Irriga_Tech) 🏆 *(Destaque Entec 2024 - UNIUBE)*
+  > Sistema de automação de irrigação inteligente focado em sustentabilidade e uso eficiente da água.
+  * **Diferencial:** Ciclo completo de IoT, utilizando **Protocolo MQTT** para comunicação entre hardware (**ESP32**) e software em **Python**.
+  * **Tech Stack:** 🐍 Python | 📟 ESP32 & Arduino | 📡 Protocolo MQTT | ⚙️ Automação
 ---
 
 ### 💻 Hard Skills
