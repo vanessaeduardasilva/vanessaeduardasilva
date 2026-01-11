@@ -21,7 +21,6 @@ Estudante de **Engenharia de Software** com transição de base da Engenharia de
 - 📊 **Foco em Dados:** Especializando em coleta, tratamento e visualização estratégica de dados.
 - 🛠️ **Full-Cycle Data Vision:** Visão completa do ciclo do dado, desde a captura via hardware (**IoT/ESP32**) até o processamento e persistência em software.
 - 🏫 **Comunicação:** Experiência como ministrante de cursos, facilitando a transmissão de conhecimentos técnicos de forma clara e acessível.
-- 🌱 **Interesses:** Café ☕ | Leitura 📚 | Animes 🎌
 
 ---
 
