@@ -9,10 +9,6 @@
 </p>
 
 <p align="center">
-  <strong>Software Engineering | Data Analysis & Automation | Python Development</strong>
-</p>
-
-<p align="center">
   Estudante de Engenharia de Software com foco em análise, automação e processamento de dados.  
   Atualmente desenvolvendo projetos que integram software, hardware e dados, com o objetivo de consolidar e aplicar conhecimentos técnicos de forma estruturada e prática.  
 </p>
