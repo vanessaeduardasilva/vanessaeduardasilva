@@ -133,19 +133,23 @@
 <details open>
   <summary><b>Habilidades Interpessoais (PT)</b></summary>
   <br>
-  - 🔍 **Pensamento Analítico:** Abordagem estruturada na resolução de problemas.  
-  - 🎯 **Foco em Resultados:** Comprometimento com entregas consistentes e de qualidade.  
-  - 🧩 **Organização e Planejamento:** Capacidade de estruturar processos e priorizar tarefas.  
-  - 🤝 **Trabalho em Equipe:** Vivência em ambientes colaborativos e metodologias ágeis.  
+  <ul>
+    <li>🔍 <b>Pensamento Analítico:</b> Abordagem estruturada na resolução de problemas.</li>
+    <li>🎯 <b>Foco em Resultados:</b> Comprometimento com entregas consistentes e de qualidade.</li>
+    <li>🧩 <b>Organização e Planejamento:</b> Capacidade de estruturar processos e priorizar tarefas.</li>
+    <li>🤝 <b>Trabalho em Equipe:</b> Vivência em ambientes colaborativos e metodologias ágeis.</li>
+  </ul>
 </details>
 
 <details>
   <summary><b>Interpersonal Skills (EN)</b></summary>
   <br>
-  - 🔍 **Analytical Thinking:** Structured approach to problem-solving.  
-  - 🎯 **Results-Oriented:** Commitment to consistent and high-quality delivery.  
-  - 🧩 **Organization & Planning:** Ability to structure processes and manage priorities.  
-  - 🤝 **Team Collaboration:** Experience with collaborative environments and agile methodologies.  
+  <ul>
+    <li>🔍 <b>Analytical Thinking:</b> Structured approach to problem-solving.</li>
+    <li>🎯 <b>Results-Oriented:</b> Commitment to consistent and high-quality delivery.</li>
+    <li>🧩 <b>Organization & Planning:</b> Ability to structure processes and manage priorities.</li>
+    <li>🤝 <b>Team Collaboration:</b> Experience with collaborative environments and agile methodologies.</li>
+  </ul>
 </details>
 
 ---
