@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou a Vanessa || Hi, I'm Vanessa 👋</h1>
+=<h1 align="center">Olá, eu sou a Vanessa || Hi, I'm Vanessa 👋</h1>
 
 <p align="center">
   <img height="150" src="https://i.pinimg.com/originals/25/4c/3a/254c3ab0cbf821a1dd0b558c57269238.gif" alt="Coding Animation" />
@@ -46,13 +46,20 @@
 <tr>
 <td>
 
-<strong>📊 ORGANIZERION GESTÃO INTELIGENTE</strong><br>
+<strong>📊 ORGANIZERION GESTÃO INTELIGENTE</strong> 🏗️<br>
 <details>
 <summary><i>Ver detalhes do projeto / View project details</i></summary>
 <br>
-<b>PT:</b> Engenharia de dados aplicada à gestão financeira. Automação de fluxo com <b>Google Calendar API</b> e persistência em <b>SQLite</b>.<br>
-<b>EN:</b> Data engineering applied to financial management. Flow automation with <b>Google Calendar API</b> and <b>SQLite</b> persistence.<br><br>
-<b>Stack:</b> 🐍 Python | 🗄️ SQLite | 📅 API Integration
+
+<b>PT:</b> Sistema de gestão financeira que automatiza o controle de contas utilizando <b>Python</b> e <b>SQLite</b>.<br><br>
+<b>Diferencial:</b> Integração com a <b>Google Calendar API</b> para envio automático de alertas de vencimento, conectando lógica de backend com automação de agenda.<br>
+<b>Status Atual:</b> Em refatoração contínua, incorporando boas práticas de desenvolvimento aprendidas no curso de <b>Python da FIAP</b>.<br><br>
+
+<b>EN:</b> Financial management system that automates account control using <b>Python</b> and <b>SQLite</b>.<br><br>
+<b>Key Feature:</b> Integration with the <b>Google Calendar API</b> to automatically send payment due alerts, connecting backend logic with calendar automation.<br>
+<b>Current Status:</b> Under continuous refactoring, incorporating best development practices learned through the <b>Python program at FIAP</b>.<br><br>
+
+<b>Stack:</b> 🐍 Python | 🗄️ SQLite | 🌐 JavaScript, HTML, CSS | 📅 Google Calendar API
 </details>
 </td>
 <td>
@@ -65,13 +72,18 @@
 <tr>
 <td>
 
-<strong>🌱 IRRIGA TECH</strong> 🏆<br>
+<strong>🌱 IRRIGA TECH</strong> 🏆 *(Destaque ENTEC 2024 - UNIUBE)*<br>
 <details>
 <summary><i>Ver detalhes do projeto / View project details</i></summary>
 <br>
-<b>PT:</b> Captura de dados em tempo real via IoT voltada à sustentabilidade. Uso do <b>Protocolo MQTT</b> e hardware <b>ESP32</b>.<br>
-<b>EN:</b> Real-time data capture via IoT for sustainability. Using <b>MQTT Protocol</b> and <b>ESP32</b> hardware.<br><br>
-<b>Stack:</b> 📟 ESP32 | 📡 MQTT | ⚙️ Data Capture
+
+<b>PT:</b> Sistema de automação de irrigação inteligente, voltado à sustentabilidade e ao uso eficiente de recursos hídricos.<br><br>
+<b>Diferencial:</b> Projeto com ciclo completo de <b>IoT</b>, utilizando o <b>Protocolo MQTT</b> para comunicação entre o hardware (<b>ESP32</b>) e o software desenvolvido em <b>Python</b>.<br><br>
+
+<b>EN:</b> Intelligent irrigation automation system focused on sustainability and efficient water management.<br><br>
+<b>Key Feature:</b> End-to-end <b>IoT</b> project using the <b>MQTT Protocol</b> for communication between <b>ESP32 hardware</b> and <b>Python-based software</b>.<br><br>
+
+<b>Stack:</b> 🐍 Python | 📟 ESP32 & Arduino | 📡 MQTT Protocol | ⚙️ Automation
 </details>
 </td>
 <td>
