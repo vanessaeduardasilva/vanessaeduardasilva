@@ -1,4 +1,5 @@
 <h1 align="center">Olá, eu sou a Vanessa || Hi, I'm Vanessa 👋</h1>
+
 <p align="center">
   <img height="130" src="https://i.pinimg.com/originals/25/4c/3a/254c3ab0cbf821a1dd0b558c57269238.gif" alt="Coding Animation" />
 </p>
@@ -9,8 +10,8 @@
 </p>
 
 <p align="center">
-  Estudante de Engenharia de Software com foco em análise, automação e processamento de dados.  
-  Atualmente desenvolvendo projetos que integram software, hardware e dados, com o objetivo de consolidar e aplicar conhecimentos técnicos de forma estruturada e prática.  
+  Engenheira de Software em formação, com atuação voltada à integração entre software, hardware e dados.  
+  Desenvolvo soluções orientadas à automação e análise de informações, unindo engenharia e tecnologia para criar sistemas inteligentes e eficientes.  
 </p>
 
 ---
@@ -39,6 +40,8 @@
   - 💻 **Technical Approach:** Application of software engineering best practices and data modeling.  
   - 🗣️ **Communication:** Experience in conducting technical activities such as extension projects and collaborating in academic development teams.  
 </details>
+
+---
 
 ### 📂 Projetos em Destaque || Featured Projects
 
@@ -161,3 +164,4 @@
 <p align="center">
   🌐 Aberta a colaborações e projetos que envolvam engenharia de software, automação e análise de dados.  
 </p>
+
