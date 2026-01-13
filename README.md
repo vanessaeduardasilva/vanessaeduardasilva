@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou a Vanessa || Hi, I'm Vanessa 👋</h1>
 
 <p align="center">
-  <img height="130" src="https://i.pinimg.com/originals/25/4c/3a/254c3ab0cbf821a1dd0b558c57269238.gif" alt="Coding Animation" />
+  <img height="140" src="https://i.pinimg.com/originals/25/4c/3a/254c3ab0cbf821a1dd0b558c57269238.gif" alt="Coding Animation" />
 </p>
 
 <p align="center">
