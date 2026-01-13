@@ -1,7 +1,11 @@
-=<h1 align="center">Olá, eu sou a Vanessa || Hi, I'm Vanessa 👋</h1>
+<h1 align="center">Olá, eu sou a Vanessa || Hi, I'm Vanessa 👋</h1>
+<p align="center">
+  <img height="130" src="https://i.pinimg.com/originals/25/4c/3a/254c3ab0cbf821a1dd0b558c57269238.gif" alt="Coding Animation" />
+</p>
 
 <p align="center">
-  <img height="150" src="https://i.pinimg.com/originals/25/4c/3a/254c3ab0cbf821a1dd0b558c57269238.gif" alt="Coding Animation" />
+  <img src="https://img.shields.io/badge/Software%20Engineering-4C8BF5?style=for-the-badge&logo=code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Analysis%20&%20Automation-0E76A8?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 <p align="center">
