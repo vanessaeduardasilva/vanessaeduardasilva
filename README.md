@@ -1,44 +1,51 @@
-<h1 align="center">Olá, eu sou a Vanessa || Hi, I'm Vanessa 👋</h1>
+<h1 align="center">Olá, eu sou a Vanessa 👋 | Hi, I'm Vanessa</h1>
 
 <p align="center">
   <img height="140" src="https://i.pinimg.com/originals/25/4c/3a/254c3ab0cbf821a1dd0b558c57269238.gif" alt="Coding Animation" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Software%20Engineering-4C8BF5?style=for-the-badge&logo=code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Analysis%20&%20Automation-0E76A8?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Software%20Engineering-4C8BF5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Analysis%20%26%20Automation-0E76A8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/IoT%20Projects-00979D?style=for-the-badge" />
 </p>
 
 <p align="center">
-  Engenheira de Software em formação, com atuação voltada à integração entre software, hardware e dados.  
-  Desenvolvo soluções orientadas à automação e análise de informações, unindo engenharia e tecnologia para criar sistemas inteligentes e eficientes.  
+  Software Engineering student focused on <b>data-driven solutions</b>, <b>automation</b> and
+  <b>integration between software, hardware and databases</b>.  
+  I enjoy building systems that reduce manual effort, improve decision-making and scale efficiently.
 </p>
 
 ---
 
-### 🚀 Sobre Mim || About Me
+## 🚀 Sobre Mim | About Me
+
 <details open>
-  <summary><b>Português (Clique para fechar/abrir)</b></summary>
-  <br>
-  Estudante de Engenharia de Software com interesse em soluções orientadas a dados e automação de processos.  
-  Atuo no desenvolvimento de projetos que envolvem integração entre hardware (IoT/ESP32), software e bancos de dados, aplicando princípios de engenharia e análise de sistemas.  
-  
-  - 📊 **Foco em Dados:** Coleta, tratamento e visualização de informações para suporte a decisões.  
-  - ⚙️ **Automação:** Implementação de fluxos automatizados e integração entre APIs e sistemas.  
-  - 💻 **Abordagem Técnica:** Aplicação de boas práticas de desenvolvimento e modelagem de dados.  
-  - 🗣️ **Comunicação:** Experiência na condução de atividades técnicas, como projetos de extensão, e na colaboração em equipes acadêmicas de desenvolvimento.  
+<summary><b>🇧🇷 Português</b></summary>
+<br>
+
+Sou estudante de Engenharia de Software com foco em *análise de dados, automação de processos e integração de sistemas*.  
+Atuo no desenvolvimento de projetos que conectam *backend, bancos de dados e hardware (IoT/ESP32)*, sempre com uma visão prática e orientada a resultados.
+
+- 📊 *Dados:* coleta, tratamento, modelagem e visualização para suporte à decisão  
+- ⚙️ *Automação:* eliminação de tarefas manuais com integração entre APIs e sistemas  
+- 🧠 *Engenharia:* aplicação de boas práticas, organização de código e visão sistêmica  
+- 🗣️ *Comunicação:* experiência em projetos acadêmicos, extensão e trabalho em equipe  
+
 </details>
 
 <details>
-  <summary><b>English (Click to open/close)</b></summary>
-  <br>
-  Software Engineering student with interest in data-driven solutions and process automation.  
-  Developing projects involving integration between hardware (IoT/ESP32), software, and databases, applying engineering principles and analytical methods.  
-  
-  - 📊 **Data Focus:** Data collection, processing, and visualization for decision support.  
-  - ⚙️ **Automation:** Implementation of automated workflows and API integrations.  
-  - 💻 **Technical Approach:** Application of software engineering best practices and data modeling.  
-  - 🗣️ **Communication:** Experience in conducting technical activities such as extension projects and collaborating in academic development teams.  
+<summary><b>🇺🇸 English</b></summary>
+<br>
+
+Software Engineering student focused on *data analysis, process automation and system integration*.  
+I develop projects that connect *backend systems, databases and hardware (IoT/ESP32)*, always aiming for practical and scalable solutions.
+
+- 📊 *Data:* collection, processing, modeling and visualization  
+- ⚙️ *Automation:* reducing manual work through API and system integrations  
+- 🧠 *Engineering mindset:* clean code, structure and system thinking  
+- 🗣️ *Communication:* experience in academic projects and collaborative environments  
+
 </details>
 
 ---
