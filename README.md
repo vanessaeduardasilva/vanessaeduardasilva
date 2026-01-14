@@ -184,14 +184,14 @@ I develop projects that connect *backend systems, databases and data analysis*, 
   <a href="https://www.linkedin.com/in/vanessa-cunha-0791a9309/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge" />
   </a>
-  <a href="mailto:contato.vanessaeduarda@gmail.com" target="_blank">
+  <a href="mailto:contato.vanessaeduarda@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
   </a>
 </div>
 
 <p align="center">
-  🌐 Aberta a colaborações e projetos que envolvam engenharia de software, automação e análise de dados.  
-</p>
+  🌐 Aberta a colaborações e projetos que envolvam engenharia de software, automação e análise de dados.
+</p> 
 
 ---
 
