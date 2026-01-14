@@ -10,11 +10,17 @@
 </p>
 
 <p align="center">
-  Estudante de Engenharia de Software com foco em <b>soluções orientadas a dados</b>, <b>automação</b> e 
-  <b>integração de sistemas</b>. Tenho paixão por construir sistemas que reduzem o esforço manual, otimizam a tomada de decisão e escalam com eficiência.
+  <b>Estudante de Engenharia de Software</b><br>
+  Foco em soluções orientadas a dados, automação e integração de sistemas.<br>
+  <i>Sistemas que reduzem esforço manual e otimizam a tomada de decisão.</i>
+</p>
+
+<p align="center">
+  --- 
   <br>
-  <i>Software Engineering student focused on <b>data-driven solutions</b>, <b>automation</b> and 
-  <b>software system integrations</b>. I enjoy building systems that reduce manual effort, improve decision-making and scale efficiently.</i>
+  <b>Software Engineering Student</b><br>
+  Focused on data-driven solutions, automation, and system integrations.<br>
+  <i>Building systems that reduce manual effort and improve decision-making.</i>
 </p>
 
 ---
