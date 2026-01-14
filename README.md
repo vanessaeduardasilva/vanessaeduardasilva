@@ -21,7 +21,7 @@
 ## 🚀 Sobre Mim | About Me
 
 <details open>
-<summary><b>🇧🇷 Português</b></summary>
+<summary><b>Português</b></summary>
 <br>
 
 Sou estudante de Engenharia de Software com foco em *análise de dados, automação de processos e integração de sistemas*.  
@@ -35,7 +35,7 @@ Atuo no desenvolvimento de projetos que conectam *backend, bancos de dados e har
 </details>
 
 <details>
-<summary><b>🇺🇸 English</b></summary>
+<summary><b>English</b></summary>
 <br>
 
 Software Engineering student focused on *data analysis, process automation and system integration*.  
@@ -49,11 +49,30 @@ I develop projects that connect *backend systems, databases and hardware (IoT/ES
 </details>
 
 ---
+## 📈 Atualmente Estudando || Currently Learning
+
+<details>
+  <summary><b>Português</b></summary>
+  <br />
+  <ul>
+    <li>📊 <b>Análise de Dados com Python:</b> Aprofundando conhecimentos técnicos e teóricos através do curso <b>Python Development (FIAP)</b>, com foco em automação e manipulação de dados.</li>
+    <li>🗄️ <b>SQL e Modelagem de Dados:</b> Consolidando conceitos de bancos de dados relacionais e otimização de <i>queries</i>, aplicando-os na estruturação do backend de projetos como o <b>Organizerion</b>.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>English</b></summary>
+  <br />
+  <ul>
+    <li>📊 <b>Data Analysis with Python:</b> Advancing technical and theoretical skills through the <b>Python Development</b> program at <b>FIAP</b>, focusing on automation and data manipulation.</li>
+    <li>🗄️ <b>SQL & Data Modeling:</b> Solidifying relational database concepts and query optimization, applying these skills to build the backend architecture of projects like <b>Organizerion</b>.</li>
+  </ul>
+</details>
 
 ### 📂 Projetos em Destaque || Featured Projects
 
 <table>
-<tr>
+<tr valign="top">
 <td>
 
 <strong>📊 ORGANIZERION GESTÃO INTELIGENTE</strong> 🏗️<br>
@@ -72,14 +91,14 @@ I develop projects that connect *backend systems, databases and hardware (IoT/ES
 <b>Stack:</b> 🐍 Python | 🗄️ SQLite | 🌐 JavaScript, HTML, CSS | 📅 Google Calendar API
 </details>
 </td>
-<td>
+<td align="center" width="150px">
 <a href="https://github.com/vanessaeduardasilva/gestao-de-contas">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
 </a>
 </td>
 </tr>
 
-<tr>
+<tr valign="top">
 <td>
 
 <strong>🌱 IRRIGA TECH</strong> 🏆 *(Destaque ENTEC 2024 - UNIUBE)*<br>
@@ -96,15 +115,13 @@ I develop projects that connect *backend systems, databases and hardware (IoT/ES
 <b>Stack:</b> 🐍 Python | 📟 ESP32 & Arduino | 📡 MQTT Protocol | ⚙️ Automation
 </details>
 </td>
-<td>
+<td align="center" width="150px">
 <a href="https://github.com/vanessaeduardasilva/Projeto-Irriga_Tech">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
 </a>
 </td>
 </tr>
 </table>
-
----
 
 ### 💻 Stack Técnica || Technical Stack
 
@@ -179,7 +196,7 @@ I develop projects that connect *backend systems, databases and hardware (IoT/ES
 ---
 
 <p align="center">
-  <img src="https://i.gifer.com/7VE.gif" width="80" alt="Pac-Man Animation" />
+  <img src="https://i.gifer.com/7VE.gif" width="100" alt="Pac-Man Animation" />
   <br>
   <sub>👾 Always learning, always coding.</sub>
 </p>
