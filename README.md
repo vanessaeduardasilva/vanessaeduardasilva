@@ -169,3 +169,11 @@
   🌐 Aberta a colaborações e projetos que envolvam engenharia de software, automação e análise de dados.  
 </p>
 
+---
+
+<p align="center">
+  <img src="https://i.gifer.com/7VE.gif" width="80" alt="Pac-Man Animation" />
+  <br>
+  <sub>👾 Always learning, always coding.</sub>
+</p>
+
