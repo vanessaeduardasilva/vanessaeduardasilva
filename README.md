@@ -5,28 +5,19 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Software%20Engineering-4C8BF5?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data%20Analysis%20%26%20Automation-0E76A8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SOFTWARE%20ENGINEERING-4C8BF5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DATA%20ANALYSIS%20%26%20AUTOMATION-0E76A8?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <a href="Português">
-    <img src="https://img.shields.io/badge/PORTUGUÊS-informational?style=flat-square&logo=brazil&logoColor=white&color=2ea44f" alt="Português">
-  </a>
-  <a href="#english-version">
-    <img src="https://img.shields.io/badge/ENGLISH-informational?style=flat-square&logo=united-states&logoColor=white&color=007acc" alt="English">
-  </a>
+  <b>Estudante de Engenharia de Software</b><br>
+  Foco em soluções orientadas a dados, automação e integração de sistemas.
 </p>
 
-<div id="portuguese-version" align="center">
-  <p><b>Estudante de Engenharia de Software</b><br>
-  Foco em soluções orientadas a dados, automação e integração de sistemas.</p>
-</div>
-
-<div id="English" align="center">
-  <p><i><b>Software Engineering Student</b><br>
-  Focused on data-driven solutions, automation, and system integrations.</i></p>
-</div>>
+<p align="center">
+  <i><b>Software Engineering Student</b><br>
+  Focused on data-driven solutions, automation, and system integrations.</i>
+</p>
 
 ---
 
