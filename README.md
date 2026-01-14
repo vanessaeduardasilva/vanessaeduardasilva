@@ -10,18 +10,23 @@
 </p>
 
 <p align="center">
-  <b>Estudante de Engenharia de Software</b><br>
-  Foco em soluções orientadas a dados, automação e integração de sistemas.<br>
-  <i>Sistemas que reduzem esforço manual e otimizam a tomada de decisão.</i>
+  <a href="Português">
+    <img src="https://img.shields.io/badge/PORTUGUÊS-informational?style=flat-square&logo=brazil&logoColor=white&color=2ea44f" alt="Português">
+  </a>
+  <a href="#english-version">
+    <img src="https://img.shields.io/badge/ENGLISH-informational?style=flat-square&logo=united-states&logoColor=white&color=007acc" alt="English">
+  </a>
 </p>
 
-<p align="center">
-  --- 
-  <br>
-  <b>Software Engineering Student</b><br>
-  Focused on data-driven solutions, automation, and system integrations.<br>
-  <i>Building systems that reduce manual effort and improve decision-making.</i>
-</p>
+<div id="portuguese-version" align="center">
+  <p><b>Estudante de Engenharia de Software</b><br>
+  Foco em soluções orientadas a dados, automação e integração de sistemas.</p>
+</div>
+
+<div id="English" align="center">
+  <p><i><b>Software Engineering Student</b><br>
+  Focused on data-driven solutions, automation, and system integrations.</i></p>
+</div>>
 
 ---
 
