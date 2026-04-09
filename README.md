@@ -29,12 +29,27 @@ Currently studying:
 Financial management system built with Python and SQLite.  
 Includes automation and Google Calendar integration.
 
-https://github.com/vanessaeduardasilva/gestao-de-contas
+🔗 [View Repository](https://github.com/vanessaeduardasilva/gestao-de-contas)
 
 **IrrigaTech**  
 IoT automation system using Python, MQTT and ESP32.
 
-https://github.com/vanessaeduardasilva/Projeto-Irriga_Tech
+🔗 [View Repository](https://github.com/vanessaeduardasilva/Projeto-Irriga_Tech)
+
+---
+
+## Studies
+
+**Python Review — FIAP**
+
+Repository created to review and practice Python concepts such as:
+
+- variables
+- conditionals
+- loops
+- programming logic
+
+🔗 [View Repository](https://github.com/vanessaeduardasilva/RevisaoPython-NanoCoursesFiap)
 
 ---
 
@@ -53,5 +68,6 @@ Other experience: Java • C++
 
 ## Contact
 
-LinkedIn  
-Email
+🔗 [LinkedIn](https://www.linkedin.com/in/vanessa-cunha-0791a9309/)
+
+📧 [Email](mailto:contato.vanessaeduarda@gmail.com)
