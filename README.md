@@ -5,69 +5,85 @@
 </p>
 
 <p align="center">
-Software Engineering Student • Python Developer
+Software Engineering Student • Python Developer in progress
 </p>
 
 ---
 
 ## About
 
-Software Engineering student interested in **Python development, automation and data systems**.
+Software Engineering student focused on building a solid foundation in backend development, automation and data systems.
 
-Currently studying:
+Currently strengthening my skills mainly in **Python**, while also working with academic and personal projects involving software development and system integration.
 
-- Python
-- SQL and data modeling
-- backend development
-- automation and system integration
+---
+
+## Current Focus
+
+- Python (main focus)  
+- Backend development fundamentals  
+- SQL and data modeling  
+- Automation and system integration  
+- Basic web development (HTML, CSS, JavaScript)  
+- Academic foundations in Java and C++  
 
 ---
 
 ## Projects
 
-**Organizerion**  
-Financial management system built with Python and SQLite.  
-Includes automation and Google Calendar integration.
+### Organizerion
+Financial management system developed with Python and SQLite.  
+Focus on automation and Google Calendar integration.
 
-🔗 [View Repository](https://github.com/vanessaeduardasilva/gestao-de-contas)
+🔗 https://github.com/vanessaeduardasilva/gestao-de-contas
 
-**IrrigaTech**  
-IoT automation system using Python, MQTT and ESP32.
+---
 
-🔗 [View Repository](https://github.com/vanessaeduardasilva/Projeto-Irriga_Tech)
+### IrrigaTech
+IoT-based automation system using Python, MQTT and ESP32 for smart irrigation control.
+
+🔗 https://github.com/vanessaeduardasilva/Projeto-Irriga_Tech
+
+---
+
+### Loading.app
+Web project focused on UI/UX experience and loading screen interaction, exploring front-end structure and user experience concepts.
+
+🔗 https://github.com/vanessaeduardasilva/loading-app
+
+---
+
+### Minicurso de Robótica
+Academic project developed during a robotics mini-course, exploring basic concepts of hardware, sensors and automation logic.
+
+🔗 https://github.com/vanessaeduardasilva/minicurso-robotica
 
 ---
 
 ## Studies
 
-**Python Review — FIAP**
+### Python Review — FIAP
+Repository created to review and practice core programming concepts in Python.
 
-Repository created to review and practice Python concepts such as:
-
+Topics covered:
 - variables
 - conditionals
 - loops
-- programming logic
+- basic programming logic
 
-🔗 [View Repository](https://github.com/vanessaeduardasilva/RevisaoPython-NanoCoursesFiap)
+🔗 https://github.com/vanessaeduardasilva/RevisaoPython-NanoCoursesFiap
 
 ---
 
-## Tech
+## Tech Stack
 
-Python  
-SQL  
-SQLite  
-Git  
-HTML  
-CSS  
+Python • SQL • SQLite • Git • HTML • CSS  
 
-Other experience: Java • C++
+Basic knowledge: Java • C++
 
 ---
 
 ## Contact
 
-🔗 [LinkedIn](https://www.linkedin.com/in/vanessa-cunha-0791a9309/)
-
-📧 [Email](mailto:contato.vanessaeduarda@gmail.com)
+🔗 LinkedIn: https://www.linkedin.com/in/vanessa-cunha-0791a9309/  
+📧 Email: mailto:contato.vanessaeduarda@gmail.com
