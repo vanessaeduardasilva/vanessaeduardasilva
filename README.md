@@ -47,9 +47,11 @@ IoT-based automation system using Python, MQTT and ESP32 for smart irrigation co
 ---
 
 ### Loading.app
-Web project focused on UI/UX experience and loading screen interaction, exploring front-end structure and user experience concepts.
+Web project focused on UI/UX experience and interactive loading screen behavior.
 
-🔗 https://github.com/vanessaeduardasilva/loading-app
+Currently being expanded with **AI integration**, exploring ways to improve user experience through dynamic and intelligent responses.
+
+🔗 https://github.com/vanessaeduardasilva/loading.app
 
 ---
 
