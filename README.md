@@ -58,7 +58,7 @@ Currently being expanded with **AI integration**, exploring ways to improve user
 ### Minicurso de Robótica
 Academic project developed during a robotics mini-course, exploring basic concepts of hardware, sensors and automation logic.
 
-🔗 https://github.com/vanessaeduardasilva/minicurso-robotica
+🔗 https://github.com/vanessaeduardasilva/minicurso
 
 ---
 
