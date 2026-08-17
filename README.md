@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Oi, eu sou a Vanessa Cunha
+#  Oi, eu sou a Vanessa Cunha
 
 ### Estudante de Engenharia de Software • Python • Automação
 
@@ -8,7 +8,7 @@
 
 <br>
 
-<img height="120" src="https://i.pinimg.com/originals/25/4c/3a/254c3ab0cbf821a1dd0b558c57269238.gif"/>
+<img height="140" src="https://i.pinimg.com/originals/25/4c/3a/254c3ab0cbf821a1dd0b558c57269238.gif"/>
 
 <br><br>
 
@@ -38,7 +38,7 @@ Em 2026, fui selecionada como **Embaixadora Estudantil Google**, uma experiênci
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql,sqlite,git,github,vscode" />
@@ -48,21 +48,21 @@ Em 2026, fui selecionada como **Embaixadora Estudantil Google**, uma experiênci
 
 ---
 
-## 🚀 Projetos em destaque
+##  ⭐ Projetos em destaque
 
-### 💰 Organizerion
+###  Organizerion
 Sistema de gerenciamento financeiro com **Python e SQLite**, incluindo automação e integração com o Google Calendar.
 
 🔗 [Ver projeto](https://github.com/vanessaeduardasilva/gestao-de-contas)
 
-### 💧 IrrigaTech
+### IrrigaTech
 Sistema de irrigação inteligente utilizando **Python, MQTT e ESP32**.
 
-🏆 **3º lugar no ENTEC 2024**
+ **3º lugar no ENTEC 2024**
 
 🔗 [Ver projeto](https://github.com/vanessaeduardasilva/Projeto-Irriga_Tech)
 
-### 🤖 Loading.app
+###  Loading.app
 Projeto web focado em experiência do usuário e exploração de recursos de **IA**.
 
 🔗 [Ver projeto](https://github.com/vanessaeduardasilva/loading.app)
@@ -71,7 +71,7 @@ Projeto web focado em experiência do usuário e exploração de recursos de **I
 
 <div align="center">
 
-✨ Obrigada por visitar meu perfil!
+ Obrigada por visitar meu perfil!
 
 </div>
 
