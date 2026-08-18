@@ -4,7 +4,7 @@
 
 ### Estudante de Engenharia de Software • Python • Automação
 
-💙💛❤️💚 Embaixadora Estudantil Google 2026
+💙 Embaixadora Estudantil Google 2026
 
 <br>
 
