@@ -34,7 +34,7 @@ Sou estudante de Engenharia de Software, com foco em **Python, automação e des
 
 Gosto de transformar processos e ideias em soluções práticas. Atualmente, estou aprofundando meus conhecimentos em **Python, SQL, integrações e Inteligência Artificial**.
 
-Em 2026, fui selecionada como **Embaixadora Estudantil Google**, uma experiência que tem me aproximado ainda mais da comunidade e das tecnologias da área. 💙🚀
+Fui selecionada como **Embaixadora Estudantil Google 2026 **, uma experiência que tem me aproximado ainda mais da comunidade e das tecnologias da área. 💙🚀
 
 ---
 
